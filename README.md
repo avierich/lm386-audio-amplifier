@@ -1,5 +1,5 @@
 # lM386 Audio Amplifier
-This project is a simple 3 channel audio amp built around 2 LM386 1 Watt audio amplifiers.
+This project is a simple 2 channel audio amp built around 2 LM386 1 Watt audio amplifiers.
 
 The input to this amplifier is from a 2 channel computer audio output. The output is to 2 small speakers. The amplifier can be driven from a single supply ranging from +5V to +15V.
 
