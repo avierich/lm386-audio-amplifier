@@ -8,3 +8,5 @@ The final product was functional however slightly quiet. The LM386 amplifier IC'
 In the future I intend to create a new more powerful amplifier using discrete transistors instead.
 
 The datasheet for the LM386 audio amplifier can be found [here](http://www.ti.com/lit/ds/symlink/lm386.pdf).
+
+![alt tag](https://raw.githubusercontent.com/avierich/ lm386-audio-amplifier/audioamp.png)
